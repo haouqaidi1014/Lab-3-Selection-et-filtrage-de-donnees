@@ -29,6 +29,20 @@
 11-Tri, pagination et agrégations:
 <img width="1301" height="345" alt="image" src="https://github.com/user-attachments/assets/e54d78cb-2535-4c32-bb26-72d16880905c" />
 12-Exercices pratiques:
+AVEC LES COMMENTAIRE DOBJECTIFS ET SIGNIFICATION :
+1-Ouvrages récents :
+ DONT LE ROLE EST DE RECUPERER LES OUVRAGE EN LES LIMIT DANS LES 3 RECENTS
+ <img width="1362" height="817" alt="image" src="https://github.com/user-attachments/assets/3238308c-f63d-4683-b40d-a80efaa52bda" />
+ 2-Auteurs à nom long: listez les auteurs dont le nom comporte au moins cinq caractères.
+<img width="1440" height="895" alt="image" src="https://github.com/user-attachments/assets/18827ca8-cd5c-4f32-9179-767bd2917f0b" />
 
+3-Abonnés hors domaine: affichage de abonne dont leur email ne terminent ni par '%@example.com' ni par '%@test.org
+<img width="1641" height="941" alt="image" src="https://github.com/user-attachments/assets/8d60b45f-9efd-450b-9754-0e30db21ce4f" />
+
+4-Emprunts en retard <img width="1662" height="245" alt="image" src="https://github.com/user-attachments/assets/087f1ccf-e8cb-494e-a85a-ef76b6553c87" />
+
+
+5-Statistiques par auteur: pour chaque auteur, indiquez le nombre total d'ouvrages et le nombre d'ouvrages disponibles
+<img width="1642" height="936" alt="image" src="https://github.com/user-attachments/assets/c3104cf2-b475-4ec7-b6d5-df01f443dc06" />
 
 
